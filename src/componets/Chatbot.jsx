@@ -117,7 +117,6 @@ function Chatbot({ data }) {
       }
     }
   };
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
       {/* Header */}
@@ -128,7 +127,7 @@ function Chatbot({ data }) {
               <img src={logo} alt="Malini AI Logo" className="w-24 h-24 object-contain" />
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">Malini AI Assistant</h1>
-                <p className="text-sm text-gray-600">Machine AI Line Integration and IoT</p>
+                <p className="text-sm text-gray-600">Machine AI for Line Intelligence and Notification IoT</p>
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-4">
