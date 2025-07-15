@@ -1,0 +1,17 @@
+{
+  "introduction": "Welcome to Padget’s Smart SMT Line! I’m Maalinee, your AI assistant for Machine Intelligence & Notifications. Let me introduce our Koh Young SPI & AOI machines, the heart of our quality assurance process in Surface Mount Technology (SMT)",
+  "faqs": [
+    {
+      "question": "What is AOI",
+      "answer": "The Koh Young AOI acts as the final gatekeeper of quality after reflow soldering. It performs 3D post-reflow inspection to ensure: Correct component placement (checks for missing, misaligned, or wrong parts). Perfect solder joints (detects bridging, tombstoning, lifted leads, or insufficient solder). Benefits : Guarantees 100% inspection of all boards before shipment. Reduces manual visual inspection needs. Helps achieve consistent product quality for complex PCBs."
+    },
+    {
+      "question": "What is the Current Yield",
+      "answer": "First Pass Yield (FPY):97.2%. False Call Rate : 0.5%"
+    },
+    {
+      "question": "Advantages of AOI machine",
+      "answer": "Zero-defect quality levels. Reduced rework & production delays. High customer satisfaction through consistent performance."
+    }
+  ]
+}

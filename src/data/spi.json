@@ -1,0 +1,22 @@
+{
+  "introduction": "Welcome to Padget’s Smart SMT Line! I’m Maalinee, your AI assistant for Machine Intelligence & Notifications. Let me introduce our Koh Young SPI & AOI machines, the heart of our quality assurance process in Surface Mount Technology (SMT)",
+  "faqs": [
+    {
+      "question": "What is SPI",
+      "answer": "The Kohyoung SPI ensures perfect solder paste printing—the foundation of high-quality solder joints. It performs full 3D inspections to measure: Volume, height, area, and shape of the solder paste.\n\nDetects defects like insufficient solder, bridging, misalignment, and foreign material immediately after the printing process.\n\nBenefits:\nEliminates downstream defects by catching printing issues early.\n\nProvides real-time SPC data and closed-loop feedback to the printer for auto-correction.\n\nEnables higher FPY (First Pass Yield) for the SMT process."
+    },
+    {
+      "question": "What is Current Yield?",
+      "answer": "First Pass Yield (FPY) 98.5% False Call Rate 0.8% Top Failures Detected are Insufficient solder, bridging, excess solder."
+    },
+    {
+      "question": "How to operate the SPI machine?",
+      "answer": "To operate the SPI machine, first turn it on, then load the PCB, and start the inspection process."
+    },
+    {
+      "question": "What are the benefits of using SPI?",
+      "answer": "The benefits of using SPI include:\n\n1. Early detection of printing defects, reducing downstream issues.\n2. Real-time feedback for process optimization.\n3. Improved First Pass Yield (FPY) in the SMT process."
+    }
+    
+  ]
+}
