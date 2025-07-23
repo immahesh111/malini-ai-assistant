@@ -3,7 +3,7 @@
   "faqs": [
     {
       "question": "What is AOI",
-      "answer": "The Koh Young AOI acts as the final gatekeeper of quality after reflow soldering. It performs 3D post-reflow inspection to ensure: Correct component placement (checks for missing, misaligned, or wrong parts). Perfect solder joints (detects bridging, tombstoning, lifted leads, or insufficient solder). Benefits : Guarantees 100% inspection of all boards before shipment. Reduces manual visual inspection needs. Helps achieve consistent product quality for complex PCBs."
+      "answer": "The KohYoung AOI acts as the final gatekeeper of quality after reflow soldering. It performs 3D post-reflow inspection to ensure: Correct component placement (checks for missing, misaligned, or wrong parts). Perfect solder joints (detects bridging, tombstoning, lifted leads, or insufficient solder). Benefits : Guarantees 100% inspection of all boards before shipment. Reduces manual visual inspection needs. Helps achieve consistent product quality for complex PCBs."
     },
     {
       "question": "What is the Current Yield",
